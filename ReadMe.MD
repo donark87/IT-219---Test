@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/kaw393939/is219hello.svg?branch=master)](https://travis-ci.org/kaw393939/is219hello)
+
+
 To start with, let's give you a simplistic, high-level view of what Object-oriented programming (OOP) is. We say simplistic, OOP can immediately get very complex, and giving it a full treatment now would reasonably confuse more than help. The basic idea of OOP is that we use objects to model real-world things that we want to represent inside our programs, and/or provide a simple way to access functionality that would contrarily be hard or impossible to make use of.
 
 Objects can include related data and code, which represent knowledge about the thing you are trying to model, and functionality that you want it to have. Object data can be stored easily (encapsulated) inside an object package, making it easy to structure and access; objects are also usually used as data stores that can be easily sent across the network.
